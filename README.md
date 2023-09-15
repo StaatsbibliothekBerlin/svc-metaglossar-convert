@@ -47,7 +47,7 @@ digraph g{
 			 
 	}
 ```
-<img src="./gv/graph_metagls.jpg" alt="graph_metagls" width="50%" height="auto">
+<img src="./gv/graph_metagls.jpg" alt="graph_metagls" width="70%" height="auto">
 
 
 <p>The SlaVaComp-Metaglossar data are already indexed and can be searched via a <a href="https://slavistik-portal.de/tools/metaglossar/index.html" target="_blank">widget</a> of the Slavistik-Portal (Bootstrap 4.6. based).</p>
