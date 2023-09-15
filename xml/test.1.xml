@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Krivko, Mocken</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2013-05-03</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date>$LastChangedDate: 2015-10-28$</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="test">
+            <head>Euch.</head>
+           <entry xml:id="tasevaGR_KSL1-1380">
+                <note>
+                    <orig>θεός (184) ▫ богъ Sin23 f. 22r7, 22r17, 23r17, 24r28, 24v12, 30r18, 30v16, 31r15, 38v22,
+                        38v25, 39r22, 39r24, 39v2, 40r26, 40v21, 41r8, 41r15, 41r24, 52r4, 52r12, 52r15, 52r19, 80r18 (∅
+                        Triod), 80v23, 81r7, 81r24, 88v1, 89r6, 89r19, 89r21, 89r24, 90v8, 91r7, 91r11, 150r12, 151r18,
+                        151r19, 158v17 (• βασιλεία Triod), 159v19, 159v23, 160r12, 160r28, 238r4, 238v17, 239r4, 309v23,
+                        310r26, 310v30, 386r192, 386v2, 390v1, 390v6, 391r5, 391r8, 392r2, 392v2, Sin24 f. 10v10, 17r28,
+                        32r28 (∅ Triod), 32v12, 44r29, 44v6, 45v25, 64v5, 68r18, 82v16 (∅ Triod), 82v29, 83r6˚, 83v2,
+                        83v9, 84r17, 107v19, 107v22, 108r8–9, 129r8, 129v5, 130r1, 220v25, 221r3, 221v26, 222r5, 222r8,
+                        222r10, 222r12, 222r15, 222r18, 222v23, 223r4, 249v24, 250r17 (∅ Pent), 250v23, 251r9, 251r11,
+                        251r24, 251v1, 251v13, 360v16, 360v19 (∅ Pent), 361r7, 362r9, 362v5, 363r27, 363v2, 364r27,
+                        364v24, 365r2 (∅ Pent), 365r7, 365r16, 366v18, 367r3, 367r6, 367r13, 367r26, 367v8, 368r19,
+                        368v7, 368v23, 369v6, 370r12, 370v9, 370v21, 370v28, 371r3, 371r13, 371r9, 371r16, 371r26,
+                        371v8, 371v21, 372r5, 372r22, 372r25, 372v16 | Gen. ▫ божии Sin23 f. 22v26, 23r7, 23r17, 30r16,
+                        30r20, 38r9, 39r11–12, 39v19, 40v3, 40v4, 40v22–23, 41r18, 41r12, 50r5, 52r10, 88v20, 89r12,
+                        90r17, 150r23, 158r5, 158v25, 161r11, 161r16 (∅ Triod), 160r21, 309v11, 310r29, 385v22, 386r191,
+                        391v5, Sin24 f. 32r23 (∅ Triod), 64v22, 65r26, 66v4, 66v8, 83r18, 108r7, 221r7, 250r16, 251v10,
+                        363v14, 365r6, 365v1, 365v5, 366r18, 366v23, 367r21–22, 367r24, 371r7 ▫ божьствьнъ comp. Sin23
+                        f. 160r5 ▫ господьнь Sin24 f. 108r18 • благъ Sin23 f. 88v12</orig>
+                </note>
+                <form type="hyperlemma" xml:lang="grc">
+                    <orth>θεός</orth>
+                </form>
+                <form type="lemma" xml:lang="grc">
+                    <orth>θεός</orth>
+                    <usg type="frequency">184</usg>
+                    <cit type="counterpart" xml:lang="cu">
+                        <form type="hyperlemma" xml:lang="cu">
+                            <orth>богъ</orth>
+                        </form>
+                        <form type="lemma" xml:lang="cu">
+                            <orth>богъ</orth>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">22r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">22r</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">23r</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">24r</biblScope>
+                                <biblScope unit="line">28</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">24v</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">30r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">30v</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">31r</biblScope>
+                                <biblScope unit="line">15</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">38v</biblScope>
+                                <biblScope unit="line">22</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">38v</biblScope>
+                                <biblScope unit="line">25</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">39r</biblScope>
+                                <biblScope unit="line">22</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">39r</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">39v</biblScope>
+                                <biblScope unit="line">2</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">40r</biblScope>
+                                <biblScope unit="line">26</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">40v</biblScope>
+                                <biblScope unit="line">21</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">41r</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">41r</biblScope>
+                                <biblScope unit="line">15</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">41r</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">52r</biblScope>
+                                <biblScope unit="line">4</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">52r</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">52r</biblScope>
+                                <biblScope unit="line">15</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">52r</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">80r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                                <note type="editors_comment">(∅ Triod)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">80v</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">81r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">81r</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">88v</biblScope>
+                                <biblScope unit="line">1</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">89r</biblScope>
+                                <biblScope unit="line">6</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">89r</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">89r</biblScope>
+                                <biblScope unit="line">21</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">89r</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">90v</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">91r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">91r</biblScope>
+                                <biblScope unit="line">11</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">150r</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">151r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">151r</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">158v</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                                <note type="editors_comment">(• βασιλεία Triod)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">159v</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">159v</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">160r</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">160r</biblScope>
+                                <biblScope unit="line">28</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">238r</biblScope>
+                                <biblScope unit="line">4</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">238v</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">239r</biblScope>
+                                <biblScope unit="line">4</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">309v</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">310r</biblScope>
+                                <biblScope unit="line">26</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">310v</biblScope>
+                                <biblScope unit="line">30</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">386r</biblScope>
+                                <biblScope unit="line">192</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">386v</biblScope>
+                                <biblScope unit="line">2</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">390v</biblScope>
+                                <biblScope unit="line">1</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">390v</biblScope>
+                                <biblScope unit="line">6</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">391r</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">391r</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">392r</biblScope>
+                                <biblScope unit="line">2</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">392v</biblScope>
+                                <biblScope unit="line">2</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">10v</biblScope>
+                                <biblScope unit="line">10</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">17r</biblScope>
+                                <biblScope unit="line">28</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">32r</biblScope>
+                                <biblScope unit="line">28</biblScope>
+                                <note type="editors_comment">(∅ Triod)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">32v</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">44r</biblScope>
+                                <biblScope unit="line">29</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">44v</biblScope>
+                                <biblScope unit="line">6</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">45v</biblScope>
+                                <biblScope unit="line">25</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">64v</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">68r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">82v</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                                <note type="editors_comment">(∅ Triod)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">82v</biblScope>
+                                <biblScope unit="line">29</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">83r</biblScope>
+                                <biblScope unit="line">6˚</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">83v</biblScope>
+                                <biblScope unit="line">2</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">83v</biblScope>
+                                <biblScope unit="line">9</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">84r</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">107v</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">107v</biblScope>
+                                <biblScope unit="line">22</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">108r</biblScope>
+                                <biblScope unit="line">8–9</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">129r</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">129v</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">130r</biblScope>
+                                <biblScope unit="line">1</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">220v</biblScope>
+                                <biblScope unit="line">25</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">221r</biblScope>
+                                <biblScope unit="line">3</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">221v</biblScope>
+                                <biblScope unit="line">26</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">222r</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">222r</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">222r</biblScope>
+                                <biblScope unit="line">10</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">222r</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">222r</biblScope>
+                                <biblScope unit="line">15</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">222r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">222v</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">223r</biblScope>
+                                <biblScope unit="line">4</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">249v</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">250r</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                                <note type="editors_comment">(∅ Pent)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">250v</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">251r</biblScope>
+                                <biblScope unit="line">9</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">251r</biblScope>
+                                <biblScope unit="line">11</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">251r</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">251v</biblScope>
+                                <biblScope unit="line">1</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">251v</biblScope>
+                                <biblScope unit="line">13</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">360v</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">360v</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                                <note type="editors_comment">(∅ Pent)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">361r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">362r</biblScope>
+                                <biblScope unit="line">9</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">362v</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">363r</biblScope>
+                                <biblScope unit="line">27</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">363v</biblScope>
+                                <biblScope unit="line">2</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">364r</biblScope>
+                                <biblScope unit="line">27</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">364v</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">365r</biblScope>
+                                <biblScope unit="line">2</biblScope>
+                                <note type="editors_comment">(∅ Pent)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">365r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">365r</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">366v</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">367r</biblScope>
+                                <biblScope unit="line">3</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">367r</biblScope>
+                                <biblScope unit="line">6</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">367r</biblScope>
+                                <biblScope unit="line">13</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">367r</biblScope>
+                                <biblScope unit="line">26</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">367v</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">368r</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">368v</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">368v</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">369v</biblScope>
+                                <biblScope unit="line">6</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">370r</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">370v</biblScope>
+                                <biblScope unit="line">9</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">370v</biblScope>
+                                <biblScope unit="line">21</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">370v</biblScope>
+                                <biblScope unit="line">28</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371r</biblScope>
+                                <biblScope unit="line">3</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371r</biblScope>
+                                <biblScope unit="line">13</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371r</biblScope>
+                                <biblScope unit="line">9</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371r</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371r</biblScope>
+                                <biblScope unit="line">26</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371v</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371v</biblScope>
+                                <biblScope unit="line">21</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">372r</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">372r</biblScope>
+                                <biblScope unit="line">22</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">372r</biblScope>
+                                <biblScope unit="line">25</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">372v</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                            </bibl>
+                        </form>
+                        <quote>богъ</quote>
+                    </cit>
+                </form>
+                <form type="variant" xml:lang="grc">
+                    <orth>BITTE WORTFORM ERGAENZEN</orth>
+                    <form type="hyperlemma" xml:lang="grc">
+                        <orth>θεός</orth>
+                    </form>
+                    <cit type="counterpart" xml:lang="cu">
+                        <form type="hyperlemma" xml:lang="cu">
+                            <orth>божии</orth>
+                        </form>
+                        <form type="lemma" xml:lang="cu">
+                            <orth>божии</orth>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">22v</biblScope>
+                                <biblScope unit="line">26</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">23r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">23r</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">30r</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">30r</biblScope>
+                                <biblScope unit="line">20</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">38r</biblScope>
+                                <biblScope unit="line">9</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">39r</biblScope>
+                                <biblScope unit="line">11–12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">39v</biblScope>
+                                <biblScope unit="line">19</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">40v</biblScope>
+                                <biblScope unit="line">3</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">40v</biblScope>
+                                <biblScope unit="line">4</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">40v</biblScope>
+                                <biblScope unit="line">22–23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">41r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">41r</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">50r</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">52r</biblScope>
+                                <biblScope unit="line">10</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">88v</biblScope>
+                                <biblScope unit="line">20</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">89r</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">90r</biblScope>
+                                <biblScope unit="line">17</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">150r</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">158r</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">158v</biblScope>
+                                <biblScope unit="line">25</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">161r</biblScope>
+                                <biblScope unit="line">11</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">161r</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                                <note type="editors_comment">(∅ Triod)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">160r</biblScope>
+                                <biblScope unit="line">21</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">309v</biblScope>
+                                <biblScope unit="line">11</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">310r</biblScope>
+                                <biblScope unit="line">29</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">385v</biblScope>
+                                <biblScope unit="line">22</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">386r</biblScope>
+                                <biblScope unit="line">191</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">391v</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">32r</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                                <note type="editors_comment">(∅ Triod)</note>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">64v</biblScope>
+                                <biblScope unit="line">22</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">65r</biblScope>
+                                <biblScope unit="line">26</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">66v</biblScope>
+                                <biblScope unit="line">4</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">66v</biblScope>
+                                <biblScope unit="line">8</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">83r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">108r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">221r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">250r</biblScope>
+                                <biblScope unit="line">16</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">251v</biblScope>
+                                <biblScope unit="line">10</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">363v</biblScope>
+                                <biblScope unit="line">14</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">365r</biblScope>
+                                <biblScope unit="line">6</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">365v</biblScope>
+                                <biblScope unit="line">1</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">365v</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">366r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">366v</biblScope>
+                                <biblScope unit="line">23</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">367r</biblScope>
+                                <biblScope unit="line">21–22</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">367r</biblScope>
+                                <biblScope unit="line">24</biblScope>
+                            </bibl>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">371r</biblScope>
+                                <biblScope unit="line">7</biblScope>
+                            </bibl>
+                        </form>
+                        <quote>божии</quote>
+                    </cit>
+                    <cit type="counterpart" xml:lang="cu">
+                        <form type="hyperlemma" xml:lang="cu">
+                            <orth>божьствьнъ</orth>
+                        </form>
+                        <form type="lemma" xml:lang="cu">
+                            <orth>божьствьнъ</orth>
+                            <gramGrp>
+                                <gram type="subc">comp</gram>
+                            </gramGrp>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">160r</biblScope>
+                                <biblScope unit="line">5</biblScope>
+                            </bibl>
+                        </form>
+                        <quote>божьствьнъ</quote>
+                    </cit>
+                    <cit type="counterpart" xml:lang="cu">
+                        <form type="hyperlemma" xml:lang="cu">
+                            <orth>господьнь</orth>
+                        </form>
+                        <form type="lemma" xml:lang="cu">
+                            <orth>господьнь</orth>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin24</biblScope>
+                                <biblScope unit="page">108r</biblScope>
+                                <biblScope unit="line">18</biblScope>
+                            </bibl>
+                        </form>
+                        <quote>господьнь</quote>
+                    </cit>
+                    <cit type="counterpart" xml:lang="cu">
+                        <form type="hyperlemma" xml:lang="cu">
+                            <orth>благъ</orth>
+                        </form>
+                        <form type="lemma" xml:lang="cu">
+                            <orth>благъ</orth>
+                            <usg type="falsetrans">ADD ICON</usg>
+                            <bibl>
+                                <biblScope unit="manuscript">Sin23</biblScope>
+                                <biblScope unit="page">88v</biblScope>
+                                <biblScope unit="line">12</biblScope>
+                            </bibl>
+                        </form>
+                        <quote>• благъ</quote>
+                    </cit>
+                </form>
+            </entry>
+</body>			
+</text>
+</TEI>			

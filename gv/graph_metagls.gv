@@ -1,0 +1,51 @@
+digraph g{ 
+
+	graph [layout = dot , overlap = false, splines=true, rankdir=LR]
+
+	#title [label="SlaVaComp-MGL (TEI-XML -> SOLR)", labelloc=t, fontsize=24];
+	
+	subgraph cluster_1 {
+    lemma -> lemma_hyperlemma
+    lemma -> lemma_grm
+	}
+    lemma -> lemma_cit 
+    lemma -> variant 
+	
+	subgraph cluster_2 {
+	lemma_cit -> hyperlemma
+			 lemma_cit -> lemma_cit_scr
+			 lemma_cit -> lemma_cit_grm
+			 }
+ 
+ 	subgraph cluster_3 {
+	variant -> variant_gra
+	variant -> variant_hyperlemma
+	variant -> variant_src
+	variant -> variant_cit
+	subgraph cluster_4 {
+			 variant_cit -> variant_cit_scr
+			 variant_cit -> variant_cit_grm
+			 variant_cit -> variant_cit_hyperlemma
+			 }
+			 
+	}
+ 
+	
+	lemma [label="lemma"];
+	hyperlemma [label="hyperlemma", style=filled, fillcolor = ".083 1 1"];
+	lemma_grm [label="lemma_grm [1,2,3]"];
+	lemma_hyperlemma [label="hyperlemma", style=filled, fillcolor = ".083 1 1"];
+	lemma_cit [label="lemma_cit [1,2,3]"];
+	lemma_cit_scr [label="lemma_cit_scr [1,2,3]"];
+	lemma_cit_grm [label="lemma_cit_grm [1,2,3]"];
+	variant [label="variant [1,2,3]"];
+	variant_hyperlemma [label="hyperlemma", style=filled, fillcolor = ".083 1 1"];
+	variant_src [label="variant_src [1,2,3]"];
+	variant_cit_scr [label="variant_cit_scr [1,2,3]"];
+	variant_cit_grm [label="variant_cit_grm [1,2,3]"];
+	variant_gra [label="variant_gra [1,2,3]"];
+	variant_cit [label="variant_cit [1,2,3]"];
+	variant_cit_hyperlemma [label="hyperlemma", style=filled, fillcolor = ".083 1 1"];
+
+ 
+}
